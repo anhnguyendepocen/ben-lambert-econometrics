@@ -1,2 +1,2 @@
-# ben-lambert-econometrics
-Problem sets for Ben Lambert's YT econometrics course.
+# Ben Lambert's YouTube Econometrics course.
+Attempts at working through the dataset using python :snake:.
